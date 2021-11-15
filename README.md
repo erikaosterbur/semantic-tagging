@@ -1,4 +1,4 @@
-# Homework 1: Semantic Tagging
+# Semantic Tagging
 
 ## Objectives
 
